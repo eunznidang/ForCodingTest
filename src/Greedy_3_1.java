@@ -1,5 +1,3 @@
-
-
 public class Greedy_3_1 {
     public int solution(int N) {
         int answer = 0;
@@ -21,6 +19,7 @@ public class Greedy_3_1 {
         }
         return answer;
     }
+
 
     public int betterSolution(int N){
         int answer = 0;
